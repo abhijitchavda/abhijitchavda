@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ResumeRefine AI](https://github.com/abhijitchavda/ResumeRefineAI)
 
-- 🌱 I’m currently learning **Machine Learning Specialization**
+- 🌱 I’m currently learning [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
 - 👯 I’m recently earned [IBM AI Developer Professional Certificate](https://www.credly.com/badges/3937a3c4-c8d2-41f9-bdcf-2e85679a15d6/linked_in_profile)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhijitchavda](https://github.com/abhijitchavda)
 
-- 💬 Ask me about **Gen AI, ML, Cloud Computing, C++, Distributed Systems**
+- 💬 Ask me about **ML, Cloud Computing, C++, Distributed Systems**
 
 - 📫 How to reach me **abhijitsinhchavda33@gmail.com**
 
