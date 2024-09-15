@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijitchavda" alt="abhijitchavda" /></a> </p>
 
-- 🔭 I’m currently working on [ResumeRefine AI](https://github.com/abhijitchavda/ResumeRefineAI)
+- 🔭 I’m currently working on [LinearRegressionFromScratch](https://github.com/abhijitchavda/LinearRegressionFromScratch)
 
 - 🌱 I’m currently learning [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
