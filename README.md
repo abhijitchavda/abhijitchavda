@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
-- 👯 I’m recently earned [IBM AI Developer Professional Certificate](https://www.credly.com/badges/3937a3c4-c8d2-41f9-bdcf-2e85679a15d6/linked_in_profile)
+- 👯 I’m recently earned [Supervised Machine Learning: Regression and Classification Certification](https://coursera.org/share/e96a16e16518d1c50192403875f49a21)
 
 - 🤝 I’m looking for guidance on learning **Machine Learning**
 
