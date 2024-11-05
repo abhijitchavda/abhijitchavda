@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijitsinh Chavda</h1>
-<h3 align="center">A seasoned backend software engineer with over 5 years of experience, I thrive at the intersection of cloud computing, machine learning, and financial technology. Driven by a passion for innovation, I’m continuously learning new technologies and staying updated with the latest industry trends, particularly in fintech and machine learning. Currently, I’m sharpening my machine learning expertise to tackle complex challenges in fintech, blending cutting-edge tech with financial acumen to drive impactful solutions.</h3>
+<h3 align="center">A seasoned backend software engineer with over 5 years of experience. I thrive at the intersection of cloud computing, machine learning, and financial technology. Driven by a passion for innovation, I’m continuously learning new technologies and staying updated with the latest industry trends, particularly in fintech and machine learning. Currently, I’m sharpening my machine learning expertise to tackle complex challenges in fintech, blending cutting-edge tech with financial acumen to drive impactful solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijitchavda" alt="abhijitchavda" /></a> </p>
 
